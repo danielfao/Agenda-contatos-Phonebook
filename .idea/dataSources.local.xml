@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="agenda-contatos dev" uuid="55a59074-09dd-4022-93e3-5092ef7570a2">
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9cdf9ddf92</user-password>
+      <schema-pattern>agenda.*</schema-pattern>
+      <default-schemas>agenda.*</default-schemas>
+    </data-source>
+  </component>
+</project>
